@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cjtabuel/Desktop/coremvcangular/coremvcangular.csproj": {}
+    "/Users/cjtabuel/Projects/GitHub/coremvcangular/coremvcangular.csproj": {}
   },
   "projects": {
-    "/Users/cjtabuel/Desktop/coremvcangular/coremvcangular.csproj": {
+    "/Users/cjtabuel/Projects/GitHub/coremvcangular/coremvcangular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cjtabuel/Desktop/coremvcangular/coremvcangular.csproj",
+        "projectUniqueName": "/Users/cjtabuel/Projects/GitHub/coremvcangular/coremvcangular.csproj",
         "projectName": "coremvcangular",
-        "projectPath": "/Users/cjtabuel/Desktop/coremvcangular/coremvcangular.csproj",
+        "projectPath": "/Users/cjtabuel/Projects/GitHub/coremvcangular/coremvcangular.csproj",
         "packagesPath": "/Users/cjtabuel/.nuget/packages/",
-        "outputPath": "/Users/cjtabuel/Desktop/coremvcangular/obj/",
+        "outputPath": "/Users/cjtabuel/Projects/GitHub/coremvcangular/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
